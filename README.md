@@ -1,6 +1,6 @@
 # microinformatics
 Author : Haseeb Raza <br>
-Email : haseebraza@microinformatics.org
+Email : haseebraza@microinformatics.org <br>
 linkedin : Haseeb Raza
 
 
